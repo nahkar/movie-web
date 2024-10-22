@@ -1,3 +1,5 @@
+import { StyledMoviesWrapper } from './styled';
+
 export const Movies = () => {
-	return <div>Movies</div>;
+	return <StyledMoviesWrapper>Movies</StyledMoviesWrapper>;
 };
